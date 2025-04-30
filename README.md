@@ -1,4 +1,4 @@
-The goal of this project was to determine if a Pokémon’s type can be accurately predicted based solely on its base stats. In other words, is there a measurable correlation between a Pokémon’s six core stats (HP, Attack, Defense, Special Attack, Special Defense, and Speed) and its typing (Type 1 or Type 2 where applicable)? By building a model that attempts this prediction, 
+The goal of this project was to determine if a Pokémon’s type can be accurately predicted based solely on its base stats. In other words, is there a measurable correlation between a Pokémon’s six core stats (HP, Attack, Defense, Special Attack, Special Defense, and Speed) and its typing (Type 1 or Type 2 where applicable)?
 
 
 FILE DIRECTORY EXPLANATION
